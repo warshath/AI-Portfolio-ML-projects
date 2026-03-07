@@ -1,4 +1,7 @@
-Create Python + C# Griffindo Toys Payroll System
+Create Python + C# Griffindo Toys Payroll System.
+
+
+
 I designed and built a small GUI system for the below scenario and it should be a complete functional system with all the functions which has described in the above scenario with the database structure which has designed.
 
 I examined debugging process and the features available in Visual studio IDE for debugging my code more easily. 
